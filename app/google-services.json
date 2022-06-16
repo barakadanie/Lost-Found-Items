@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787607794221",
+    "project_id": "lost-7adab",
+    "storage_bucket": "lost-7adab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787607794221:android:515cd8d76302cafdc6fea4",
+        "android_client_info": {
+          "package_name": "com.baraka.lostfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787607794221-ffj9pr5v7cu3oo3hiia58p8javklfeac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ldoUI_U0S8Iv1_13CsmQ6sHB2WKR3b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787607794221-ffj9pr5v7cu3oo3hiia58p8javklfeac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

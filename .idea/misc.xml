@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LostFound/app/src/main/res/drawable/avatar.xml" value="0.1" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_message.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_message_view.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_post.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_post_view.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_profile_view.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/card_message.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/card_post.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/fragment_found.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/fragment_lost.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/navigation_header.xml" value="0.17074275362318841" />
+        <entry key="..\:/LostFound/app/src/main/res/layout/pop_up.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
